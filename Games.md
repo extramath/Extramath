@@ -4,7 +4,7 @@ Stickmanhook: https://extramath.github.io/fish
 
 Subway Surfers: https://extramath.github.io/dog
 
-Super Mario 64: https://ixlmathgg.github.io/dog
+Super Mario 64: https://ixlmathgg.github.io/doggy
 
 TinyFishing: https://ixlmathgg.github.io/bear
 
