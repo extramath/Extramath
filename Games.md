@@ -10,7 +10,7 @@ TinyFishing: https://ixlmathgg.github.io/bear
 
 TapTapShots: https://ixlmathgg.github.io/snake
 
-Drive Mad: https://ixlmathgg.github.io/shark
+Drive Mad: https://extramath.github.io/kitty
 
 Emulator JS: https://ixlmathgg.github.io/zebra
 
