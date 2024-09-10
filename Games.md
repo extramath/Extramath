@@ -20,4 +20,4 @@ Fruit Ninja: https://extramath.github.io/cat
 
 Rooftop Snipers: https://extramath.github.io/fox
 
-Tunnel Rush: https://ixlmathgg.github.io/bat
+Tunnel Rush: https://extramath.github.io/panda
