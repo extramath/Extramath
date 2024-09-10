@@ -12,7 +12,7 @@ TapTapShots: https://ixlmathgg.github.io/snake
 
 Drive Mad: https://extramath.github.io/kitty
 
-Emulator JS: https://ixlmathgg.github.io/zebra
+Emulator JS: https://extramath.github.io/zebra
 
 Wordle Unlimited: https://ixlmathgg.github.io/turtle
 
