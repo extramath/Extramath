@@ -8,7 +8,7 @@ Super Mario 64: https://extramath.github.io/doggy
 
 TinyFishing: https://extramath.github.io/bear
 
-TapTapShots: https://ixlmathgg.github.io/snake
+TapTapShots: https://extramath.github.io/snake
 
 Drive Mad: https://extramath.github.io/kitty
 
