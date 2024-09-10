@@ -14,10 +14,10 @@ Drive Mad: https://extramath.github.io/kitty
 
 Emulator JS: https://extramath.github.io/zebra
 
-Wordle Unlimited: https://ixlmathgg.github.io/turtle
+Wordle Unlimited: https://extramath.github.io/turtle
 
 Fruit Ninja: https://extramath.github.io/cat
 
-Rooftop Snipers: https://ixlmathgg.github.io/fox
+Rooftop Snipers: https://extramath.github.io/fox
 
 Tunnel Rush: https://ixlmathgg.github.io/bat
