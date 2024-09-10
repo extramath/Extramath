@@ -6,7 +6,7 @@ Subway Surfers: https://extramath.github.io/dog
 
 Super Mario 64: https://extramath.github.io/doggy
 
-TinyFishing: https://ixlmathgg.github.io/bear
+TinyFishing: https://extramath.github.io/bear
 
 TapTapShots: https://ixlmathgg.github.io/snake
 
