@@ -2,8 +2,6 @@ Welcome To extramath Best Unblocked Games Industry At Putnam City School Distric
 
 Stickmanhook: https://extramath.github.io/bat
 
-Subway Surfers: https://extramath.github.io/dog
-
 Super Mario 64: https://extramath.github.io/doggy
 
 TinyFishing: https://extramath.github.io/bear
